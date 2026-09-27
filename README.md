@@ -50,10 +50,3 @@
 
 - **IEEE KOSTÜ**, Kök Kol Sorumlusu (2024–2026) · İç ve Dış İşler Sorumlusu (2023–2024)
 - **Vodafone**, Kampüs Temsilcisi (2024–2025)
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EnessKucukk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnessKucukk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
